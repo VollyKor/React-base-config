@@ -1,8 +1,8 @@
 {
-  "name": "react-basic-files",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://warness.github.io/React-base-config",
+  "homepage": "https://homepagetemplate",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -41,8 +41,6 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^6.2.2",
-    "@storybook/react": "^6.2.2",
     "husky": "^4.3.0",
     "lint-staged": "^10.5.2",
     "prettier": "^2.2.0"
